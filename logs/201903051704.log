@@ -1,0 +1,8 @@
+2019-03-05 17:04:38,364 - Base - INFO - click the element
+2019-03-05 17:04:40,669 - Base - INFO - click the element
+2019-03-05 17:05:14,725 - Base - INFO - click the element
+2019-03-05 17:05:17,754 - Base - INFO - click the element
+2019-03-05 17:05:27,312 - Base - INFO -  ‰»Îƒ⁄»›£∫2251789077@qq.com
+2019-03-05 17:05:31,522 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-05 17:05:31,522 - Base - ERROR - failed sendkeys with object of type 'float' has no len()
+2019-03-05 17:05:34,904 - Base - INFO - click the element

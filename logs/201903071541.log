@@ -1,0 +1,7 @@
+2019-03-07 15:41:48,127 - Base - INFO - click the element
+2019-03-07 15:41:50,357 - Base - INFO - click the element
+2019-03-07 15:42:02,588 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 15:42:02,588 - Base - ERROR - faild find element with Message: 
+
+2019-03-07 15:42:03,549 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 15:42:03,549 - Base - ERROR - failed to click the elemetn with 'NoneType' object has no attribute 'click'

@@ -1,0 +1,79 @@
+2019-03-07 15:31:03,931 - Base - INFO - click the element
+2019-03-07 15:31:12,734 - Base - INFO - 输入内容：style1
+2019-03-07 15:31:13,852 - Base - INFO - click the element
+2019-03-07 15:31:15,405 - Base - INFO - click the element
+2019-03-07 15:31:17,218 - Base - INFO - click the element
+2019-03-07 15:31:26,748 - Base - INFO - 输入内容：style2
+2019-03-07 15:31:46,132 - Base - INFO - long_press
+2019-03-07 15:31:47,209 - Base - INFO - click the element
+2019-03-07 15:31:49,110 - Base - INFO - click the element
+2019-03-07 15:31:51,028 - Base - INFO - click the element
+2019-03-07 15:31:53,659 - Base - INFO - swipe
+2019-03-07 15:31:54,125 - Base - INFO - click the element
+2019-03-07 15:32:10,384 - Base - INFO - click the element
+2019-03-07 15:32:12,638 - Base - INFO - click the element
+2019-03-07 15:32:25,151 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 15:32:25,152 - Base - ERROR - faild find element with Message: 
+
+2019-03-07 15:32:25,870 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 15:32:25,870 - Base - ERROR - failed to click the elemetn with 'NoneType' object has no attribute 'click'
+2019-03-07 15:32:38,395 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 15:32:38,395 - Base - ERROR - faild find element with Message: 
+
+2019-03-07 15:32:55,691 - Base - INFO - long_press
+2019-03-07 15:32:56,726 - Base - INFO - click the element
+2019-03-07 15:32:58,693 - Base - INFO - click the element
+2019-03-07 15:33:00,629 - Base - INFO - click the element
+2019-03-07 15:33:03,187 - Base - INFO - click the element
+2019-03-07 15:33:19,738 - Base - INFO - click the element
+2019-03-07 15:33:21,962 - Base - INFO - click the element
+2019-03-07 15:33:31,772 - Base - INFO - 输入内容：1233211234567@qq.com
+2019-03-07 15:33:39,497 - Base - INFO - 输入内容：123456789
+2019-03-07 15:33:40,375 - Base - INFO - click the element
+2019-03-07 15:33:52,369 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 15:33:52,369 - Base - ERROR - faild find element with Message: 
+
+2019-03-07 15:33:53,249 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 15:33:53,249 - Base - ERROR - failed get_text with 'NoneType' object has no attribute 'text'
+2019-03-07 15:34:06,014 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 15:34:06,015 - Base - ERROR - faild find element with Message: 
+
+2019-03-07 15:34:06,750 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 15:34:06,750 - Base - ERROR - failed to click the elemetn with 'NoneType' object has no attribute 'click'
+2019-03-07 15:34:19,659 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 15:34:19,659 - Base - ERROR - faild find element with Message: 
+
+2019-03-07 15:34:20,601 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 15:34:20,601 - Base - ERROR - failed to click the elemetn with 'NoneType' object has no attribute 'click'
+2019-03-07 15:34:33,092 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 15:34:33,093 - Base - ERROR - faild find element with Message: 
+
+2019-03-07 15:34:33,997 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 15:34:33,997 - Base - ERROR - failed to click the elemetn with 'NoneType' object has no attribute 'click'
+2019-03-07 15:34:54,968 - Base - INFO - click the element
+2019-03-07 15:34:56,193 - Base - INFO - click the element
+2019-03-07 15:35:05,122 - Base - INFO - 输入内容：2251789077@qq.com
+2019-03-07 15:35:13,191 - Base - INFO - 输入内容：123456789
+2019-03-07 15:35:14,042 - Base - INFO - click the element
+2019-03-07 15:35:26,453 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 15:35:26,453 - Base - ERROR - faild find element with Message: 
+
+2019-03-07 15:35:27,357 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 15:35:27,357 - Base - ERROR - failed get_text with 'NoneType' object has no attribute 'text'
+2019-03-07 15:35:40,055 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 15:35:40,055 - Base - ERROR - faild find element with Message: 
+
+2019-03-07 15:35:41,028 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 15:35:41,028 - Base - ERROR - failed to click the elemetn with 'NoneType' object has no attribute 'click'
+2019-03-07 15:35:54,498 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 15:35:54,499 - Base - ERROR - faild find element with Message: 
+
+2019-03-07 15:35:55,494 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 15:35:55,494 - Base - ERROR - failed to click the elemetn with 'NoneType' object has no attribute 'click'
+2019-03-07 15:36:08,111 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 15:36:08,111 - Base - ERROR - faild find element with Message: 
+
+2019-03-07 15:36:09,133 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 15:36:09,133 - Base - ERROR - failed to click the elemetn with 'NoneType' object has no attribute 'click'
+2019-03-07 15:36:32,242 - Base - INFO - click the element
+2019-03-07 15:36:33,033 - Base - INFO - click the element

@@ -1,0 +1,26 @@
+2019-03-06 21:08:40,886 - Base - INFO - click the element
+2019-03-06 21:08:41,972 - Base - INFO - click the element
+2019-03-06 21:08:50,788 - Base - INFO - 输入内容：1233211234567@qq.com
+2019-03-06 21:08:58,555 - Base - INFO - 输入内容：123456789
+2019-03-06 21:08:59,474 - Base - INFO - click the element
+2019-03-06 21:09:00,672 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-06 21:09:00,673 - Base - ERROR - faild find element with Message: Missing parameters: ["selector"]
+
+2019-03-06 21:09:01,697 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-06 21:09:01,697 - Base - ERROR - failed get_text with 'NoneType' object has no attribute 'text'
+2019-03-06 21:09:04,780 - Base - INFO - click the element
+2019-03-06 21:09:05,487 - Base - INFO - click the element
+2019-03-06 21:09:07,531 - Base - INFO - click the element
+2019-03-06 21:09:23,180 - Base - INFO - click the element
+2019-03-06 21:09:24,083 - Base - INFO - click the element
+2019-03-06 21:09:33,802 - Base - INFO - 输入内容：2251789077@qq.com
+2019-03-06 21:09:41,757 - Base - INFO - 输入内容：123456789
+2019-03-06 21:09:42,636 - Base - INFO - click the element
+2019-03-06 21:09:43,707 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-06 21:09:43,708 - Base - ERROR - faild find element with Message: Missing parameters: ["selector"]
+
+2019-03-06 21:09:44,812 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-06 21:09:44,812 - Base - ERROR - failed get_text with 'NoneType' object has no attribute 'text'
+2019-03-06 21:09:46,410 - Base - INFO - click the element
+2019-03-06 21:09:48,204 - Base - INFO - click the element
+2019-03-06 21:09:50,351 - Base - INFO - click the element

@@ -1,0 +1,11 @@
+2019-03-06 14:04:28,757 - Base - INFO - long_press
+2019-03-06 14:04:29,778 - Base - INFO - click the element
+2019-03-06 14:04:31,555 - Base - INFO - click the element
+2019-03-06 14:04:33,481 - Base - INFO - click the element
+2019-03-06 14:04:33,510 - Base - INFO - swipe
+2019-03-06 14:04:36,000 - Base - INFO - click the element
+2019-03-06 14:04:48,395 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-06 14:04:48,396 - Base - ERROR - faild find element with Message: 
+
+2019-03-06 14:04:49,199 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-06 14:04:49,200 - Base - ERROR - failed to click the elemetn with 'NoneType' object has no attribute 'click'

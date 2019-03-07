@@ -1,0 +1,12 @@
+2019-03-07 14:03:28,759 - Base - INFO - click the element
+2019-03-07 14:03:29,534 - Base - INFO - click the element
+2019-03-07 14:03:31,368 - Base - INFO - click the element
+2019-03-07 14:03:39,739 - Base - INFO - 输入内容：vikkieen
+2019-03-07 14:03:47,706 - Base - INFO - 输入内容：12332112345@qq.com
+2019-03-07 14:03:55,607 - Base - INFO - 输入内容：123456789
+2019-03-07 14:03:56,543 - Base - INFO - click the element
+2019-03-07 14:04:09,695 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 14:04:09,696 - Base - ERROR - faild find element with Message: 
+
+2019-03-07 14:04:10,568 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 14:04:10,568 - Base - ERROR - failed to click the elemetn with 'NoneType' object has no attribute 'click'

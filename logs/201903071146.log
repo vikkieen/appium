@@ -1,0 +1,32 @@
+2019-03-07 11:46:28,860 - Base - INFO - click the element
+2019-03-07 11:46:31,093 - Base - INFO - click the element
+2019-03-07 11:46:40,917 - Base - INFO - 输入内容：1233211234567@qq.com
+2019-03-07 11:46:48,644 - Base - INFO - 输入内容：123456789
+2019-03-07 11:46:49,590 - Base - INFO - click the element
+2019-03-07 11:46:50,753 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 11:46:50,754 - Base - ERROR - faild find element with Message: Missing parameters: ["selector"]
+
+2019-03-07 11:46:51,783 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 11:46:51,784 - Base - ERROR - failed get_text with 'NoneType' object has no attribute 'text'
+2019-03-07 11:46:53,205 - Base - INFO - click the element
+2019-03-07 11:46:55,360 - Base - INFO - click the element
+2019-03-07 11:46:57,329 - Base - INFO - click the element
+2019-03-07 11:47:14,062 - Base - INFO - click the element
+2019-03-07 11:47:16,346 - Base - INFO - click the element
+2019-03-07 11:47:26,360 - Base - INFO - 输入内容：2251789077@qq.com
+2019-03-07 11:47:38,924 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 11:47:38,924 - Base - ERROR - faild find element with Message: 
+
+2019-03-07 11:47:57,680 - Base - INFO - click the element
+2019-03-07 11:47:58,849 - Base - INFO - click the element
+2019-03-07 11:48:08,876 - Base - INFO - 输入内容：1111112254455@qq.com
+2019-03-07 11:48:16,663 - Base - INFO - 输入内容：123456789
+2019-03-07 11:48:17,601 - Base - INFO - click the element
+2019-03-07 11:48:18,850 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 11:48:18,851 - Base - ERROR - faild find element with Message: Missing parameters: ["selector"]
+
+2019-03-07 11:48:20,128 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 11:48:20,129 - Base - ERROR - failed get_text with 'NoneType' object has no attribute 'text'
+2019-03-07 11:48:21,899 - Base - INFO - click the element
+2019-03-07 11:48:23,710 - Base - INFO - click the element
+2019-03-07 11:48:26,174 - Base - INFO - click the element

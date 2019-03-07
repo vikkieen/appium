@@ -1,0 +1,32 @@
+2019-03-07 11:50:54,310 - Base - INFO - click the element
+2019-03-07 11:50:56,583 - Base - INFO - click the element
+2019-03-07 11:51:06,227 - Base - INFO - 输入内容：1233211234567@qq.com
+2019-03-07 11:51:14,108 - Base - INFO - 输入内容：123456789
+2019-03-07 11:51:15,058 - Base - INFO - click the element
+2019-03-07 11:51:18,282 - Base - INFO - click the element
+2019-03-07 11:51:20,094 - Base - INFO - click the element
+2019-03-07 11:51:22,428 - Base - INFO - click the element
+2019-03-07 11:51:40,025 - Base - INFO - click the element
+2019-03-07 11:51:42,385 - Base - INFO - click the element
+2019-03-07 11:51:52,094 - Base - INFO - 输入内容：2251789077@qq.com
+2019-03-07 11:52:01,213 - Base - INFO - 输入内容：123456789
+2019-03-07 11:52:02,777 - Base - INFO - click the element
+2019-03-07 11:52:14,158 - Base - INFO - click the element
+2019-03-07 11:52:26,681 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 11:52:26,681 - Base - ERROR - faild find element with Message: 
+
+2019-03-07 11:52:27,636 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 11:52:27,637 - Base - ERROR - failed to click the elemetn with 'NoneType' object has no attribute 'click'
+2019-03-07 11:52:40,030 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 11:52:40,031 - Base - ERROR - faild find element with Message: 
+
+2019-03-07 11:52:40,883 - Base - INFO - had take screenshot and save to folder:/scteenshots
+2019-03-07 11:52:40,883 - Base - ERROR - failed to click the elemetn with 'NoneType' object has no attribute 'click'
+2019-03-07 11:53:02,686 - Base - INFO - click the element
+2019-03-07 11:53:04,987 - Base - INFO - click the element
+2019-03-07 11:53:14,564 - Base - INFO - 输入内容：1111112254455@qq.com
+2019-03-07 11:53:22,382 - Base - INFO - 输入内容：123456789
+2019-03-07 11:53:23,383 - Base - INFO - click the element
+2019-03-07 11:53:28,351 - Base - INFO - click the element
+2019-03-07 11:53:29,084 - Base - INFO - click the element
+2019-03-07 11:53:31,303 - Base - INFO - click the element
